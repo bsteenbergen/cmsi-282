@@ -1,1 +1,1 @@
-# cmsi-282
+# cmsi-282 Algorithms
